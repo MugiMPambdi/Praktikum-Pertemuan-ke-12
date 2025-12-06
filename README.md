@@ -28,7 +28,7 @@ Menghapus data mahasiswa berdasarkan nama.
 Mengubah data mahasiswa berdasarkan nama.
 
 ✨Flowchart
-
+![alt image](https://github.com/MugiMPambdi/Praktikum-Pertemuan-ke-12/blob/ac53a8dfd27049ccc117d96df2ffd45272b85b00/screenshot%20codingan/flowchart%20praktikum.jpeg)
 🧩 Cara Kerja Program
 1. Program memiliki data awal mahasiswa.
 2. User memilih menu:
